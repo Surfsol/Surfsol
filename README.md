@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am enthusiastic about developing useful web applications.  Love learning and applying new technologies.  Experienced in both frontend and backend development, as well as leading development teams as a project manager.
+I am enthusiastic about developing useful web applications.  Love learning and applying new technologies.  Experienced in Full Stack development, as well as leading development teams as a project manager.
 
 You can reach me at:  surfsol@protonmail.com
 <!--
